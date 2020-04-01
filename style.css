@@ -1,0 +1,19 @@
+.bandeau {
+    display: inline-flex;
+}
+
+.bandeau__logo-img {
+    transform: scale(0.2);
+    position: relative;
+    top: -50px;
+    left: -273px;
+}
+
+.bandeau__btn {
+    display: inline-flex;
+}
+
+.bandeau__btn button {
+    border: none;
+}
+
