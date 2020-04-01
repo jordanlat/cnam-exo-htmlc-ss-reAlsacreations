@@ -1,0 +1,2 @@
+L'objectif de l'exercice, est de re-créer le site www.alsacréations.fr, uniquement en html et css, à l'aide de la méthodologie BEM(Blocks - Elements - Modifiers).
+La force de cette méthode est de rendre plus lisible le code, et dévité les confusions, grâce à un nommage précis et léger.
